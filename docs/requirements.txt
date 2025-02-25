@@ -5,7 +5,7 @@ sphinx-gallery<=0.7.0
 sphinxcontrib.katex
 matplotlib
 papermill
-jinja2<=3.0.3
+jinja2<=3.1.5
 breathe
 exhale
 ipython_genutils
